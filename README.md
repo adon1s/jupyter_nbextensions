@@ -1,1 +1,1 @@
-# jupyter_nbextensions
+# Jupyter notebook extensions
